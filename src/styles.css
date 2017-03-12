@@ -1,4 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+.paddT-10 {
+  padding-top: 10px;
+}
+.paddT-20 {
+  padding-top: 20px;
+}
+.paddT-30 {
+  padding-top: 30px;
+}
 
 /*Animaciones*/
 .animated {
@@ -27,4 +36,8 @@
 
 .fadeIn {
   animation-name: fadeIn;
+}
+
+.logo-comic{
+  max-width: 100px;
 }
